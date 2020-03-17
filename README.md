@@ -1,6 +1,6 @@
 # CORONAVIRUS
 
-<img src="images/coronavirus-structure.png" alt="Corona Virus" width="360" height="240">
+<img src="images/coronavirus-structure.png" alt="Corona Virus" width="185" height="184.5">
 
 
 ## What Is Coronaviruses?  
