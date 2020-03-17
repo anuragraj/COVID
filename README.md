@@ -1,7 +1,7 @@
 # CORONAVIRUS
 
 <img src="images/coronavirus-structure.png" alt="Corona Virus" width="185" height="184.5">   
- 
+
 Refer to [ Ministry of Health and Family Welfare - GOI](https://www.mohfw.gov.in/) for live update.  
 लाइव अपडेट के लिए [स्वास्थ्य और परिवार कल्याण मंत्रालय - भारत सरकार](https://www.mohfw.gov.in/) पर जाएं।
 
@@ -121,3 +121,14 @@ Not yet. To date, there is no vaccine and no specific antiviral medicine to prev
 - [COVID -19 Testing Sites](https://icmr.nic.in/sites/default/files/upload_documents/COVID_19_Testing_Laboratories.pdf)
 
 <iframe src="https://www.google.com/maps/d/embed?mid=15Kg1GOrvwPN_SozeKJbjNtsvKO7uLqsO" width="640" height="480"></iframe>
+
+
+## References:
+## संदर्भ:
+- [WHO](https://www.who.int/)
+- [MOHFW-GOI](https://www.mohfw.gov.in/)
+
+
+
+This page is maintained by [@anuragraj](https://github.com/anuragraj).
+यह पृष्ठ [@anuragraj](https://github.com/anuragraj) द्वारा बनाए रखा गया है।
