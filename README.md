@@ -1,25 +1,22 @@
 # CORONAVIRUS
 
-<img src="images/coronavirus-structure.png" alt="Corona Virus" width="185" height="184.5">  |   REFER to [ Ministry of Health and Family Welfare - GOI](https://www.mohfw.gov.in/) for live update.
+<img src="images/coronavirus-structure.png" alt="Corona Virus" width="185" height="184.5">  |   REFER to [ Ministry of Health and Family Welfare - GOI](https://www.mohfw.gov.in/) for live update. लाइव अपडेट के लिए [स्वास्थ्य और परिवार कल्याण मंत्रालय - भारत सरकार] (https://www.mohfw.gov.in/) पर चर्चा करें।
 
 
-## What Is Coronaviruses? 
-## Coronaviruses क्या है? 
+## What Is Coronaviruses? | Coronaviruses क्या है? 
 
 Coronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV).  
 
 Coronaviruses (CoV) वायरस के एक बड़े परिवार के हैं जो सामान्य सर्दी से लेकर गंभीर बीमारियों जैसे मध्य पूर्व श्वसन सिंड्रोम (MERS-CoV) और गंभीर एक्यूट रेस्पिरेटरी सिंड्रोम (SARS-CoV) का कारण बनता है।
 
 
-## What is COVID-19?  
-## COVID-19 क्या है?
+## What is COVID-19? | COVID-19 क्या है?
 
 COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019.   
 
 COVID-19 सबसे हाल ही में खोजे गए कोरोनावायरस के कारण होने वाला संक्रामक रोग है। यह नया वायरस और बीमारी दिसंबर 2019 में चीन के वुहान में फैलने से पहले अज्ञात थी।
 
-## What are the symptoms of COVID-19?
-## COVID-19 के लक्षण क्या हैं?
+## What are the symptoms of COVID-19? | COVID-19 के लक्षण क्या हैं?
 
 People may experience:
 
@@ -42,8 +39,7 @@ People may experience:
 <img src="images/SymptomsCDC.png" alt="Symptoms of Coronaviruses" width="420" height="552">
 
 
-## Basic protective measures  
-## बुनियादी सुरक्षात्मक उपाय
+## Basic protective measures | बुनियादी सुरक्षात्मक उपाय
 
 #### Wash your hands frequently  
 #### बार-बार हाथ धोएं
@@ -98,21 +94,18 @@ COVID-19 के बारे में नवीनतम घटनाओं स
 **Why?** National and local authorities will have the most up to date information on whether COVID-19 is spreading in your area. They are best placed to advise on what people in your area should be doing to protect themselves. 
 ** क्यों? ** राष्ट्रीय और स्थानीय अधिकारियों के पास इस बात की सबसे अधिक जानकारी होगी कि आपके क्षेत्र में सीओवीआईडी ​​-19 फैल रहा है या नहीं। उन्हें इस बात की सलाह देने के लिए सर्वोत्तम स्थान दिया गया है कि आपके क्षेत्र के लोगों को अपनी सुरक्षा के लिए क्या करना चाहिए। 
 
-## When to get tested for COVID-19?
-## कब COVID-19 के लिए परीक्षण किया जाना है?
+## When to get tested for COVID-19? | कब COVID-19 के लिए परीक्षण किया जाना है?
 
 <img src="images/WhenToGetTestedHin.png" alt="When To Get Tested Poster Hindi" width="552" height="420"> <img src="images/WhenToGetTestedEng.png" alt="When To Get Tested Poster English" width="552" height="420">
 
 
-## Is there a vaccine, drug or treatment for COVID-19?
-## क्या COVID-19 का टीका, दवा या उपचार है?
+## Is there a vaccine, drug or treatment for COVID-19? | क्या COVID-19 का टीका, दवा या उपचार है?
 
 Not yet. To date, there is no vaccine and no specific antiviral medicine to prevent or treat COVID-2019. However, those affected should receive care to relieve symptoms. People with serious illness should be hospitalized. Most patients recover thanks to supportive care. 
 अभी नहीं। आज तक, COVID-2019 को रोकने या इसका इलाज करने के लिए कोई टीका और कोई विशिष्ट एंटीवायरल दवा नहीं है। हालांकि, प्रभावित लोगों को लक्षणों से राहत पाने के लिए देखभाल करनी चाहिए। गंभीर बीमारी वाले लोगों को अस्पताल में भर्ती होना चाहिए। अधिकांश रोगी सहायक देखभाल के लिए धन्यवाद पुनर्प्राप्त करते हैं।
 
 
-## Educate Yourself
-## अपने आप को शिक्षित करें
+## Educate Yourself | अपने आप को शिक्षित करें
 - [Coronavirus Outbreak in India](https://covidout.in/)  
 - [WHO Coronavirus disease (COVID-19) outbreak](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)  
 - [Harvard Medical School Coronavirus Resource Center](https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center)
@@ -123,13 +116,11 @@ Not yet. To date, there is no vaccine and no specific antiviral medicine to prev
 - [Wikipedia *Coronavirus_disease_2019*](https://en.wikipedia.org/wiki/Coronavirus_disease_2019)
 
 
-## Researches About COVID-19 in INDIA
-## भारत में COVID-19 के बारे में शोध
+## Researches About COVID-19 in INDIA | भारत में COVID-19 के बारे में शोध
 - [INDIA COVID-19 Open Research, Data & Resources](http://vinodscaria.rnabiology.org/covid-19/)
 - [ICMR COVID-19](https://icmr.nic.in/content/covid-19)
 
-## COVID Test centers in INDIA
-## भारत में COVID परीक्षण केंद्र
+## COVID Test centers in INDIA | भारत में COVID परीक्षण केंद्र
 - [COVID -19 Testing Sites](https://icmr.nic.in/sites/default/files/upload_documents/COVID_19_Testing_Laboratories.pdf)
 
 <iframe src="https://www.google.com/maps/d/embed?mid=15Kg1GOrvwPN_SozeKJbjNtsvKO7uLqsO" width="640" height="480"></iframe>
