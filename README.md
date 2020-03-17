@@ -18,7 +18,7 @@ People may experience:
 - Diarrhea
 - Difficulty breathing (severe cases)
 
-![Symptoms of Coronaviruses](https://github.com/anuragraj/COVID/blob/master/images/SymptomsCDC.png)
+![Symptoms of Coronaviruses](https://github.com/anuragraj/COVID/blob/master/images/SymptomsCDC.png =552x420)
 
 
 ## Basic protective measures  
@@ -59,7 +59,10 @@ Stay informed on the latest developments about COVID-19. Follow advice given by 
 
 **Why?** National and local authorities will have the most up to date information on whether COVID-19 is spreading in your area. They are best placed to advise on what people in your area should be doing to protect themselves.  
 
+## When to get tested for COVID-19?
 
+![WhenToGetTested_Hindi](https://github.com/anuragraj/COVID/blob/master/images/WhenToGetTestedHin.png =552x420)   
+![WhenToGetTested_English](https://github.com/anuragraj/COVID/blob/master/images/WhenToGetTestedEng.png =552x420)
 
 ## Is there a vaccine, drug or treatment for COVID-19?
 
