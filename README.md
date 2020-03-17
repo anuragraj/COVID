@@ -68,3 +68,24 @@ Stay informed on the latest developments about COVID-19. Follow advice given by 
 ## Is there a vaccine, drug or treatment for COVID-19?
 
 Not yet. To date, there is no vaccine and no specific antiviral medicine to prevent or treat COVID-2019. However, those affected should receive care to relieve symptoms. People with serious illness should be hospitalized. Most patients recover thanks to supportive care. 
+
+
+## Educate Yourself
+- [Coronavirus Outbreak in India](https://covidout.in/)  
+- [WHO Coronavirus disease (COVID-19) outbreak](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)  
+- [Harvard Medical School Coronavirus Resource Center](https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center)
+- [Flatten the Curve](https://www.flattenthecurve.com/)
+- [JHS Center for Health Security Situation Reports](http://www.centerforhealthsecurity.org/resources/COVID-19/index.html)
+- [WHO COVID-19 advice for the public: Myth busters](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters) - Debunking myths about transmission and prevention
+- [How to fight the coronavirus SARS-CoV-2 and its disease, CoVID-19](https://drive.google.com/file/d/1DqfSnlaW6N3GBc5YKyBOCGPfdqOsqk1G/view) - Slide deck by Michael Lin, PhD-MD of Stanford's Lin Lab
+- [Wikipedia *Coronavirus_disease_2019*](https://en.wikipedia.org/wiki/Coronavirus_disease_2019)
+
+
+## Researches About COVID-19 in INDIA
+- [INDIA COVID-19 Open Research, Data & Resources](http://vinodscaria.rnabiology.org/covid-19/)
+- [ICMR COVID-19](https://icmr.nic.in/content/covid-19)
+
+## COVID Test centers in INDIA
+- [COVID -19 Testing Sites](https://icmr.nic.in/sites/default/files/upload_documents/COVID_19_Testing_Laboratories.pdf)
+
+<iframe src="https://www.google.com/maps/d/embed?mid=15Kg1GOrvwPN_SozeKJbjNtsvKO7uLqsO" width="640" height="480"></iframe>
