@@ -18,7 +18,7 @@ People may experience:
 - Diarrhea
 - Difficulty breathing (severe cases)
 
-![Symptoms of Coronaviruses](https://github.com/anuragraj/COVID/blob/master/images/SymptomsCDC.png = 552x420)
+<img src="https://github.com/anuragraj/COVID/blob/master/images/SymptomsCDC.png" alt="Symptoms of Coronaviruses" width="552" height="420">
 
 
 ## Basic protective measures  
@@ -61,8 +61,8 @@ Stay informed on the latest developments about COVID-19. Follow advice given by 
 
 ## When to get tested for COVID-19?
 
-![WhenToGetTested_Hindi](https://github.com/anuragraj/COVID/blob/master/images/WhenToGetTestedHin.png = 552x420)   
-![WhenToGetTested_English](https://github.com/anuragraj/COVID/blob/master/images/WhenToGetTestedEng.png = 552x420)
+<img src="https://github.com/anuragraj/COVID/blob/master/images/WhenToGetTestedHin.png" alt="When To Get Tested Poster Hindi" width="552" height="420">   
+<img src="https://github.com/anuragraj/COVID/blob/master/images/WhenToGetTestedEng.png" alt="When To Get Tested Poster English" width="552" height="420">
 
 ## Is there a vaccine, drug or treatment for COVID-19?
 
