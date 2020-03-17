@@ -10,9 +10,6 @@ Coronaviruses (CoV) are a large family of viruses that cause illness ranging fro
 ## What is COVID-19?  
 
 COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019.   
-<!-- 
-## Cases Reported in India
-<iframe width=""1134.7794117647059"" height=""701.5"" seamless frameborder=""0"" scrolling=""no"" src=""https://docs.google.com/spreadsheets/d/e/2PACX-1vSc_2y5N0I67wDU38DjDh35IZSIS30rQf7_NYZhtYYGU1jJYT6_kDx4YpF-qw0LSlGsBYP8pqM_a1Pd/pubchart?oid=2121525956&amp;format=interactive""></iframe> -->
 
 
 ## What are the symptoms of COVID-19?
@@ -43,7 +40,7 @@ Maintain at least 1 metre (3 feet) distance between yourself and anyone who is c
 
 **Why?** When someone coughs or sneezes they spray small liquid droplets from their nose or mouth which may contain virus. If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person coughing has the disease.   
 
-<img src="images/HowToAvoidHin.png" alt="How to Avoid Hindi" width="329" height="441">  <img src="images/HowToAvoidEng.png" alt="How to Avoid English" width="329" height="441">
+<img src="images/HowToAvoidHin.png" alt="How to Avoid Hindi" width="438" height="588">  <img src="images/HowToAvoidEng.png" alt="How to Avoid English" width="438" height="588">
 
 #### Avoid touching eyes, nose and mouth  
 
@@ -69,8 +66,7 @@ Stay informed on the latest developments about COVID-19. Follow advice given by 
 
 ## When to get tested for COVID-19?
 
-<img src="images/WhenToGetTestedHin.png" alt="When To Get Tested Poster Hindi" width="552" height="420">   
-<img src="images/WhenToGetTestedEng.png" alt="When To Get Tested Poster English" width="552" height="420">
+<img src="images/WhenToGetTestedHin.png" alt="When To Get Tested Poster Hindi" width="552" height="420"> <img src="images/WhenToGetTestedEng.png" alt="When To Get Tested Poster English" width="552" height="420">
 
 
 ## Is there a vaccine, drug or treatment for COVID-19?
