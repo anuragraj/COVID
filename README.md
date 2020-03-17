@@ -1,6 +1,6 @@
 # CORONAVIRUS
 
-<img src="images/coronavirus-structure.png" alt="Corona Virus" width="185" height="184.5">    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   REFER to [ Ministry of Health and Family Welfare | GOI](https://www.mohfw.gov.in/) for live update.
+<img src="images/coronavirus-structure.png" alt="Corona Virus" width="185" height="184.5">  |   REFER to [ Ministry of Health and Family Welfare - GOI](https://www.mohfw.gov.in/) for live update.
 
 
 ## What Is Coronaviruses?  
