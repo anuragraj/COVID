@@ -18,7 +18,7 @@ People may experience:
 - Diarrhea
 - Difficulty breathing (severe cases)
 
-![Symptoms of Coronaviruses](https://github.com/anuragraj/COVID/images/SymptomsCDC.png)
+![Symptoms of Coronaviruses](https://github.com/anuragraj/COVID/blob/master/images/SymptomsCDC.png)
 
 
 ## Basic protective measures  
