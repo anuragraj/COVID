@@ -48,7 +48,7 @@ Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash
 अपने हाथों को अल्कोहल-आधारित हाथ रगड़ से नियमित रूप से और अच्छी तरह से साफ करें या उन्हें साबुन और पानी से धोएं।
 
 **Why?** Washing your hands with soap and water or using alcohol-based hand rub kills viruses that may be on your hands. 
-** क्यों? ** अपने हाथों को साबुन और पानी से धोना या अल्कोहल-आधारित हाथ रगड़ का उपयोग करना उन वायरस को मारता है जो आपके हाथों पर हो सकते हैं।
+**क्यों?** अपने हाथों को साबुन और पानी से धोना या अल्कोहल-आधारित हाथ रगड़ का उपयोग करना उन वायरस को मारता है जो आपके हाथों पर हो सकते हैं।
 
 #### Maintain social distancing   
 #### सामाजिक दूरियां बनाए रखें
@@ -57,7 +57,7 @@ Maintain at least 1 metre (3 feet) distance between yourself and anyone who is c
 कम से कम 1 मीटर (3 फीट) की दूरी पर अपने आप को और किसी को भी, जो खांस रहा है या छींक रहा है, के बीच दूरी बनाए रखें। 
 
 **Why?** When someone coughs or sneezes they spray small liquid droplets from their nose or mouth which may contain virus. If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person coughing has the disease. 
-** क्यों? ** जब किसी को खांसी या छींक आती है तो वे अपनी नाक या मुंह से छोटी तरल बूंदें छिड़कते हैं जिनमें वायरस हो सकता है। यदि आप बहुत करीब हैं, तो आप खांसी में सांस ले सकते हैं, जिसमें सीओवीआईडी -19 वायरस भी शामिल है यदि खांसी करने वाले व्यक्ति को यह बीमारी है।  
+**क्यों?** जब किसी को खांसी या छींक आती है तो वे अपनी नाक या मुंह से छोटी तरल बूंदें छिड़कते हैं जिनमें वायरस हो सकता है। यदि आप बहुत करीब हैं, तो आप खांसी में सांस ले सकते हैं, जिसमें सीओवीआईडी -19 वायरस भी शामिल है यदि खांसी करने वाले व्यक्ति को यह बीमारी है।  
 
 <img src="images/HowToAvoidHin.png" alt="How to Avoid Hindi" width="356" height="477">  <img src="images/HowToAvoidEng.png" alt="How to Avoid English" width="356" height="477">
 
@@ -65,7 +65,7 @@ Maintain at least 1 metre (3 feet) distance between yourself and anyone who is c
 #### आंख, नाक और मुंह छूने से बचें
 
 **Why?** Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth. From there, the virus can enter your body and can make you sick.  
-** क्यों? ** हाथ कई सतहों को छूते हैं और वायरस उठा सकते हैं। एक बार दूषित होने पर, हाथ वायरस को आपकी आंखों, नाक या मुंह में स्थानांतरित कर सकते हैं। वहां से, वायरस आपके शरीर में प्रवेश कर सकता है और आपको बीमार कर सकता है।
+**क्यों?** हाथ कई सतहों को छूते हैं और वायरस उठा सकते हैं। एक बार दूषित होने पर, हाथ वायरस को आपकी आंखों, नाक या मुंह में स्थानांतरित कर सकते हैं। वहां से, वायरस आपके शरीर में प्रवेश कर सकता है और आपको बीमार कर सकता है।
 
 #### Practice respiratory hygiene  
 #### श्वसन स्वच्छता का अभ्यास करें
@@ -74,7 +74,7 @@ Make sure you, and the people around you, follow good respiratory hygiene. This 
 सुनिश्चित करें कि आप, और आपके आस-पास के लोग, अच्छी श्वसन स्वच्छता का पालन करें। इसका मतलब है खांसी या छींक आने पर अपनी मुड़ी हुई कोहनी या ऊतक से अपने मुंह और नाक को ढंकना। फिर इस्तेमाल किए गए ऊतक का तुरंत निपटान करें।
 
 **Why?** Droplets spread virus. By following good respiratory hygiene you protect the people around you from viruses such as cold, flu and COVID-19.  
-** क्यों? ** छींक की बूंदें वायरस फैलाती हैं। अच्छी श्वसन स्वच्छता का पालन करके आप अपने आसपास के लोगों को सर्दी, फ्लू और सीओवीआईडी ​​-19 जैसे वायरस से बचाते हैं।
+**क्यों?** छींक की बूंदें वायरस फैलाती हैं। अच्छी श्वसन स्वच्छता का पालन करके आप अपने आसपास के लोगों को सर्दी, फ्लू और सीओवीआईडी ​​-19 जैसे वायरस से बचाते हैं।
 
 #### If you have fever, cough and difficulty breathing, seek medical care early  
 #### अगर आपको बुखार, खांसी और सांस लेने में कठिनाई हो रही है, तो जल्द चिकित्सा सेवा लें
@@ -83,7 +83,7 @@ Stay home if you feel unwell. If you have a fever, cough and difficulty breathin
 यदि आप अस्वस्थ महसूस करते हैं तो घर पर रहें। यदि आपको बुखार, खांसी और सांस लेने में कठिनाई है, तो चिकित्सा पर ध्यान दें और पहले से फोन करें। अपने स्थानीय स्वास्थ्य प्राधिकरण के निर्देशों का पालन करें।
 
 **Why?** National and local authorities will have the most up to date information on the situation in your area. Calling in advance will allow your health care provider to quickly direct you to the right health facility. This will also protect you and help prevent spread of viruses and other infections.  
-** क्यों? ** राष्ट्रीय और स्थानीय अधिकारियों के पास आपके क्षेत्र की स्थिति के बारे में सबसे अधिक जानकारी होगी। अग्रिम में कॉल करने से आपका स्वास्थ्य देखभाल प्रदाता आपको जल्दी से सही स्वास्थ्य सुविधा के लिए निर्देशित कर सकेगा। यह आपकी रक्षा भी करेगा और वायरस और अन्य संक्रमणों को फैलने से रोकने में मदद करेगा।
+**क्यों?** राष्ट्रीय और स्थानीय अधिकारियों के पास आपके क्षेत्र की स्थिति के बारे में सबसे अधिक जानकारी होगी। अग्रिम में कॉल करने से आपका स्वास्थ्य देखभाल प्रदाता आपको जल्दी से सही स्वास्थ्य सुविधा के लिए निर्देशित कर सकेगा। यह आपकी रक्षा भी करेगा और वायरस और अन्य संक्रमणों को फैलने से रोकने में मदद करेगा।
 
 #### Stay informed and follow advice given by your healthcare provider  
 #### सूचित रहें और अपने स्वास्थ्य सेवा प्रदाता द्वारा दी गई सलाह का पालन करें
@@ -92,7 +92,7 @@ Stay informed on the latest developments about COVID-19. Follow advice given by 
 COVID-19 के बारे में नवीनतम घटनाओं से अवगत रहें। अपने स्वास्थ्य सेवा प्रदाता, अपने राष्ट्रीय और स्थानीय सार्वजनिक स्वास्थ्य प्राधिकरण या अपने नियोक्ता द्वारा COVID -19 से खुद को और दूसरों की रक्षा करने के लिए दी गई सलाह का पालन करें।
 
 **Why?** National and local authorities will have the most up to date information on whether COVID-19 is spreading in your area. They are best placed to advise on what people in your area should be doing to protect themselves. 
-** क्यों? ** राष्ट्रीय और स्थानीय अधिकारियों के पास इस बात की सबसे अधिक जानकारी होगी कि आपके क्षेत्र में सीओवीआईडी ​​-19 फैल रहा है या नहीं। उन्हें इस बात की सलाह देने के लिए सर्वोत्तम स्थान दिया गया है कि आपके क्षेत्र के लोगों को अपनी सुरक्षा के लिए क्या करना चाहिए। 
+**क्यों?** राष्ट्रीय और स्थानीय अधिकारियों के पास इस बात की सबसे अधिक जानकारी होगी कि आपके क्षेत्र में सीओवीआईडी ​​-19 फैल रहा है या नहीं। उन्हें इस बात की सलाह देने के लिए सर्वोत्तम स्थान दिया गया है कि आपके क्षेत्र के लोगों को अपनी सुरक्षा के लिए क्या करना चाहिए। 
 
 ## When to get tested for COVID-19? | कब COVID-19 के लिए परीक्षण किया जाना है?
 
