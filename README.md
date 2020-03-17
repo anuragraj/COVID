@@ -15,8 +15,10 @@ People may experience:
 - Sore throat
 - Cough
 - Fever
-- Pneumonia
+- Diarrhea
 - Difficulty breathing (severe cases)
+
+![Symptoms of Coronaviruses](https://github.com/anuragraj/COVID/images/SymptomsCDC.png)
 
 
 ## Basic protective measures  
@@ -59,3 +61,6 @@ Stay informed on the latest developments about COVID-19. Follow advice given by 
 
 
 
+## Is there a vaccine, drug or treatment for COVID-19?
+
+Not yet. To date, there is no vaccine and no specific antiviral medicine to prevent or treat COVID-2019. However, those affected should receive care to relieve symptoms. People with serious illness should be hospitalized. Most patients recover thanks to supportive care. 
