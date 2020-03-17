@@ -40,7 +40,7 @@ Maintain at least 1 metre (3 feet) distance between yourself and anyone who is c
 
 **Why?** When someone coughs or sneezes they spray small liquid droplets from their nose or mouth which may contain virus. If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person coughing has the disease.   
 
-<img src="images/HowToAvoidHin.png" alt="How to Avoid Hindi" width="438" height="588">  <img src="images/HowToAvoidEng.png" alt="How to Avoid English" width="438" height="588">
+<img src="images/HowToAvoidHin.png" alt="How to Avoid Hindi" width="328" height="441">  <img src="images/HowToAvoidEng.png" alt="How to Avoid English" width="328" height="441">
 
 #### Avoid touching eyes, nose and mouth  
 
