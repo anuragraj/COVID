@@ -18,7 +18,7 @@ People may experience:
 - Diarrhea
 - Difficulty breathing (severe cases)
 
-<img src="https://github.com/anuragraj/COVID/blob/master/images/SymptomsCDC.png" alt="Symptoms of Coronaviruses" width="552" height="420">
+<img src="https://github.com/anuragraj/COVID/blob/master/images/SymptomsCDC.png" alt="Symptoms of Coronaviruses" width="420" height="552">
 
 
 ## Basic protective measures  
@@ -35,7 +35,7 @@ Maintain at least 1 metre (3 feet) distance between yourself and anyone who is c
 
 **Why?** When someone coughs or sneezes they spray small liquid droplets from their nose or mouth which may contain virus. If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person coughing has the disease.   
 
-
+<img src="https://github.com/anuragraj/COVID/blob/master/images/HowToAvoidHin.png" alt="How to Avoid" width="548" height="735">
 
 #### Avoid touching eyes, nose and mouth  
 
@@ -63,6 +63,7 @@ Stay informed on the latest developments about COVID-19. Follow advice given by 
 
 <img src="https://github.com/anuragraj/COVID/blob/master/images/WhenToGetTestedHin.png" alt="When To Get Tested Poster Hindi" width="552" height="420">   
 <img src="https://github.com/anuragraj/COVID/blob/master/images/WhenToGetTestedEng.png" alt="When To Get Tested Poster English" width="552" height="420">
+
 
 ## Is there a vaccine, drug or treatment for COVID-19?
 
