@@ -3,4 +3,7 @@ theme: jekyll-theme-cayman
 title: COVID-INDIA
 description: A collection of informations during COVID-19
 
+github:
+  is_project_page: false
+
 google_analytics: UA-112390516-3
