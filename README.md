@@ -23,23 +23,25 @@ COVID-19 सबसे हाल ही में खोजे गए कोर�
 
 People may experience:
 
+- Fever
+- Tiredness
+- Dry Cough
 - Running nose
 - Sore throat
-- Cough
-- Fever
 - Diarrhea
 - Difficulty breathing (severe cases)
 
 लोग अनुभव कर सकते हैं:
 
+- बुखार
+- थकान
+- सूखी खाँसी
 - बहता नाक
 - गले में खरास
-- खांसी
-- बुखार
 - दस्त
 - सांस लेने में कठिनाई (गंभीर मामले)
 
-<img src="images/SymptomsCDC.png" alt="Symptoms of Coronaviruses" width="420" height="552">
+<img src="images/SymptomsCDC.png" alt="Symptoms of Coronaviruses" width="405" height="525">  <img src="images/SymptomsBBC.png" alt="Symptoms of Coronaviruses" width="488" height="400">
 
 
 ## Basic protective measures | बुनियादी सुरक्षात्मक उपाय
@@ -60,7 +62,7 @@ Maintain at least 1 metre (3 feet) distance between yourself and anyone who is c
 **Why?** When someone coughs or sneezes they spray small liquid droplets from their nose or mouth which may contain virus. If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person coughing has the disease.   
 **क्यों?** जब किसी को खांसी या छींक आती है तो वे अपनी नाक या मुंह से छोटी तरल बूंदें छिड़कते हैं जिनमें वायरस हो सकता है। यदि आप बहुत करीब हैं, तो आप खांसी में सांस ले सकते हैं, जिसमें सीओवीआईडी -19 वायरस भी शामिल है यदि खांसी करने वाले व्यक्ति को यह बीमारी है।  
 
-<img src="images/HowToAvoidHin.png" alt="How to Avoid Hindi" width="356" height="477">  <img src="images/HowToAvoidEng.png" alt="How to Avoid English" width="356" height="477">
+<img src="images/HowToAvoidEng.png" alt="How to Avoid English" width="356" height="477">  <img src="images/HowToAvoidHin.png" alt="How to Avoid Hindi" width="356" height="477">  
 
 ### Avoid touching eyes, nose and mouth | आंख, नाक और मुंह छूने से बचें
 
@@ -93,7 +95,7 @@ COVID-19 के बारे में नवीनतम घटनाओं स
 
 ## When to get tested for COVID-19? | कब COVID-19 के लिए परीक्षण किया जाना है?
 
-<img src="images/WhenToGetTestedHin.png" alt="When To Get Tested Poster Hindi" width="552" height="420"> <img src="images/WhenToGetTestedEng.png" alt="When To Get Tested Poster English" width="552" height="420">
+<img src="images/WhenToGetTestedEng.png" alt="When To Get Tested Poster English" width="552" height="420">  <img src="images/WhenToGetTestedHin.png" alt="When To Get Tested Poster Hindi" width="552" height="420"> 
 
 
 ## Is there a vaccine, drug or treatment for COVID-19? | क्या COVID-19 का टीका, दवा या उपचार है?
