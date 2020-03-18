@@ -123,7 +123,7 @@ Not yet. To date, there is no vaccine and no specific antiviral medicine to prev
 
 ## Watch Corona Virus information videos | कोरोना वायरस जानकारी वीडियो देखें
 
-<iframe width="336" height="189" src="https://www.youtube.com/embed/mOV1aBVYKGA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  &nbsp;&nbsp;&nbsp;&nbsp;  <iframe width="336" height="189" src="https://www.youtube.com/embed/ti5cL0CXkhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="336" height="189" src="https://www.youtube.com/embed/mOV1aBVYKGA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>    <iframe width="336" height="189" src="https://www.youtube.com/embed/ti5cL0CXkhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Researches About COVID-19 in INDIA | भारत में COVID-19 के बारे में शोध
 - [INDIA COVID-19 Open Research, Data & Resources](http://vinodscaria.rnabiology.org/covid-19/)
