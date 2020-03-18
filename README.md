@@ -48,7 +48,7 @@ People may experience:
 - दस्त
 - सांस लेने में कठिनाई (गंभीर मामले)
 
-<img src="images/SymptomsCDC.png" alt="Symptoms of Coronaviruses" width="364" height="472">  <img src="images/SymptomsBBC.png" alt="Symptoms of Coronaviruses" width="488" height="400">
+<img src="images/SymptomsCDC.png" alt="Symptoms of Coronaviruses" width="364" height="472">  <img src="images/SymptomsBBC.png" alt="Symptoms of Coronaviruses" width="439" height="360">
 
 
 ## Basic protective measures | बुनियादी सुरक्षात्मक उपाय
