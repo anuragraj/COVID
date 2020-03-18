@@ -48,7 +48,7 @@ People may experience:
 - दस्त
 - सांस लेने में कठिनाई (गंभीर मामले)
 
-<img src="images/SymptomsCDC.png" alt="Symptoms of Coronaviruses" width="405" height="525">  <img src="images/SymptomsBBC.png" alt="Symptoms of Coronaviruses" width="488" height="400">
+<img src="images/SymptomsCDC.png" alt="Symptoms of Coronaviruses" width="364" height="472">  <img src="images/SymptomsBBC.png" alt="Symptoms of Coronaviruses" width="488" height="400">
 
 
 ## Basic protective measures | बुनियादी सुरक्षात्मक उपाय
@@ -69,7 +69,7 @@ Maintain at least 1 metre (3 feet) distance between yourself and anyone who is c
 **Why?** When someone coughs or sneezes they spray small liquid droplets from their nose or mouth which may contain virus. If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person coughing has the disease.   
 **क्यों?** जब किसी को खांसी या छींक आती है तो वे अपनी नाक या मुंह से छोटी तरल बूंदें छिड़कते हैं जिनमें वायरस हो सकता है। यदि आप बहुत करीब हैं, तो आप खांसी में सांस ले सकते हैं, जिसमें सीओवीआईडी -19 वायरस भी शामिल है यदि खांसी करने वाले व्यक्ति को यह बीमारी है।  
 
-<img src="images/HowToAvoidEng.png" alt="How to Avoid English" width="356" height="477">  <img src="images/HowToAvoidHin.png" alt="How to Avoid Hindi" width="356" height="477">  
+<img src="images/HowToAvoidEng.png" alt="How to Avoid English" width="356" height="477">  &nbsp;&nbsp;&nbsp;&nbsp;  <img src="images/HowToAvoidHin.png" alt="How to Avoid Hindi" width="356" height="477">  
 
 ### Avoid touching eyes, nose and mouth | आंख, नाक और मुंह छूने से बचें
 
@@ -123,9 +123,7 @@ Not yet. To date, there is no vaccine and no specific antiviral medicine to prev
 
 ## Watch Corona Virus information videos | कोरोना वायरस जानकारी वीडियो देखें
 
-<iframe width="336" height="189" src="https://www.youtube.com/embed/mOV1aBVYKGA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="336" height="189" src="https://www.youtube.com/embed/ti5cL0CXkhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="336" height="189" src="https://www.youtube.com/embed/mOV1aBVYKGA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  &nbsp;&nbsp;&nbsp;&nbsp;  <iframe width="336" height="189" src="https://www.youtube.com/embed/ti5cL0CXkhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Researches About COVID-19 in INDIA | भारत में COVID-19 के बारे में शोध
 - [INDIA COVID-19 Open Research, Data & Resources](http://vinodscaria.rnabiology.org/covid-19/)
