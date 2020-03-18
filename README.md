@@ -137,11 +137,11 @@ Not yet. To date, there is no vaccine and no specific antiviral medicine to prev
 <iframe src="https://www.google.com/maps/d/embed?mid=15Kg1GOrvwPN_SozeKJbjNtsvKO7uLqsO" width="640" height="480"></iframe>
 
 
-## References | संदर्भ:
+## References & sources | संदर्भ और स्रोत:
 - [WHO](https://www.who.int/)
 - [MOHFW-GOI](https://www.mohfw.gov.in/)
+- [BBC](https://www.bbc.com/)
 
 
-
-This page is maintained by [@anuragraj](https://github.com/anuragraj).  
-यह पृष्ठ [@anuragraj](https://github.com/anuragraj) द्वारा बनाए रखा गया है।
+> This page is maintained by [Anurag Raj](https://anuragraj.github.io/). You can give your suggestions to improve this webpage.   
+> यह पृष्ठ [अनुराग राज](https://anuragraj.github.io/) द्वारा बनाया गया है। वेबपेज को बेहतर बनाने के लिए आप अपने सुझाव दे सकते हैं।
