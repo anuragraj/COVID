@@ -6,7 +6,7 @@ Refer to [ Ministry of Health and Family Welfare - GOI](https://www.mohfw.gov.in
 लाइव अपडेट के लिए [स्वास्थ्य और परिवार कल्याण मंत्रालय - भारत सरकार](https://www.mohfw.gov.in/) पर जाएं।
 
 
-## What is Coronaviruses? | Coronaviruses क्या है? 
+## What are Coronaviruses? | Coronaviruses क्या है? 
 
 Coronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV).  
 
