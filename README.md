@@ -127,6 +127,10 @@ Not yet. To date, there is no vaccine and no specific antiviral medicine to prev
 
 <iframe width="336" height="189" src="https://www.youtube.com/embed/ti5cL0CXkhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## PM Narendra Modi addresses the Nation on issues relating to COVID-19 | COVID-19 से संबंधित मुद्दों पर राष्ट्र को संबोधित करते हुए पीएम नरेंद्र मोदी
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5bjrEb6w-Rk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Researches About COVID-19 in INDIA | भारत में COVID-19 के बारे में शोध
 - [INDIA COVID-19 Open Research, Data & Resources](http://vinodscaria.rnabiology.org/covid-19/)
 - [CoronaActionIndia](https://tavlab-iiitd.github.io/CoronaActionIndia/)
