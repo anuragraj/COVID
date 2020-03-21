@@ -26,6 +26,8 @@ People can catch COVID-19 from others who have the virus. The disease can spread
 
 लोग वायरस वाले अन्य लोगों से COVID -19 पकड़ सकते हैं। यह बीमारी नाक या मुंह से छोटी बूंदों के माध्यम से एक व्यक्ति से दूसरे व्यक्ति में फैल सकती है, जो तब फैलती है जब सीओवीआईडी -19 से पीड़ित व्यक्ति खांसी या सांस छोड़ता है। ये बूंदें व्यक्ति के आसपास की वस्तुओं और सतहों पर उतरती हैं। अन्य लोग तब इन वस्तुओं या सतहों को छूकर, फिर अपनी आंखों, नाक या मुंह को छूकर COVID -19 से संक्रमित हो जाते हैं। सीओवीआईडी -19 से लोग तब भी संक्रमित हो सकते हैं, जब वे सीओवीआईडी -19 वाले व्यक्ति से बूंदों में सांस लेते हैं जो खांसी करते हैं या बूंदों को बाहर निकालते हैं। यही कारण है कि बीमार रहने वाले व्यक्ति से 1 मीटर (3 फीट) से अधिक रहना महत्वपूर्ण है।
 
+<img src="images/covid-DBT.jpeg" alt="How it Spread Poster English" width="512" height="320">  <img src="images/covid-DBT_HIN.jpeg" alt="How it Spread Poster Hindi" width="512" height="320">
+
 ## What are the symptoms of COVID-19? | COVID-19 के लक्षण क्या हैं?
 
 People may experience:
@@ -146,7 +148,11 @@ Not yet. To date, there is no vaccine and no specific antiviral medicine to prev
 - [WHO](https://www.who.int/)
 - [MOHFW-GOI](https://www.mohfw.gov.in/)
 - [BBC](https://www.bbc.com/)
+- [ICMR](https://www.icmr.nic.in/content/covid-19)
+- [CSIR-IGIB](http://vinodscaria.rnabiology.org/covid-19/)
 
 
 > This page is maintained by [Anurag Raj](https://anuragraj.github.io/). You can give your suggestions to improve this webpage.   
 > यह पृष्ठ [अनुराग राज](https://anuragraj.github.io/) द्वारा बनाया गया है। वेबपेज को बेहतर बनाने के लिए आप अपने सुझाव दे सकते हैं।
+
+> Last Updated: 21st March 2020
