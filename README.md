@@ -50,7 +50,7 @@ People may experience:
 - दस्त
 - सांस लेने में कठिनाई (गंभीर मामले)
 
-<img src="images/SymptomsCDC.png" alt="Symptoms of Coronaviruses" width="364" height="472">  <img src="images/SymptomsBBC.png" alt="Symptoms of Coronaviruses" width="439" height="360">
+<img src="images/SymptomsCDC.png" alt="Symptoms of Coronaviruses" width="364" height="472"> &nbsp;&nbsp;&nbsp; <img src="images/SymptomsBBC.png" alt="Symptoms of Coronaviruses" width="439" height="360">
 
 
 ## Basic protective measures | बुनियादी सुरक्षात्मक उपाय
@@ -104,7 +104,7 @@ COVID-19 के बारे में नवीनतम घटनाओं स
 
 ## When to get tested for COVID-19? | कब COVID-19 के लिए परीक्षण किया जाना है?
 
-<img src="images/WhenToGetTestedEng.png" alt="When To Get Tested Poster English" width="552" height="420">  <img src="images/WhenToGetTestedHin.png" alt="When To Get Tested Poster Hindi" width="552" height="420"> 
+<img src="images/WhenToGetTestedEng.png" alt="When To Get Tested Poster English" width="414" height="315">  <img src="images/WhenToGetTestedHin.png" alt="When To Get Tested Poster Hindi" width="414" height="315"> 
 
 
 ## Is there a vaccine, drug or treatment for COVID-19? | क्या COVID-19 का टीका, दवा या उपचार है?
@@ -155,8 +155,8 @@ Not yet. To date, there is no vaccine and no specific antiviral medicine to prev
 - [ICMR](https://www.icmr.nic.in/content/covid-19)
 - [CSIR-IGIB](http://vinodscaria.rnabiology.org/covid-19/)
 
-
+--- 
 > This page is maintained by [Anurag Raj](https://anuragraj.github.io/). You can give your suggestions to improve this webpage.   
 > यह पृष्ठ [अनुराग राज](https://anuragraj.github.io/) द्वारा बनाया गया है। वेबपेज को बेहतर बनाने के लिए आप अपने सुझाव दे सकते हैं।
-
+--- 
 > Last Updated: 21st March 2020
